@@ -18,8 +18,8 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  </a>
 </div>
