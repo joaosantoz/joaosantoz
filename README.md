@@ -1,4 +1,4 @@
-## Olá! 👋
+## Oi Oi! 👋
  <div>
   <a href="https://github.com/joaosantoz">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=joaosantoz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
